@@ -49,20 +49,20 @@
 ![Django](https://img.shields.io/badge/-Django-2BA977?style=for-the-badge&logo=django&logoColor=white)
 
 
-## Education 
-- 영진 고등학교(대구) 졸업 2014.03~2017.02
-- 부산대학교(부산) 졸업예정 2018.03~2024.02
+## 🎓 Education 
+- 영진 고등학교(대구) 졸업 🗓️2014.03~2017.02
+- 부산대학교(부산) 졸업예정 🗓️2018.03~2024.02
 
-## License
-- SQLD 2023.07
-- 정보처리기사 2023.09
+## 🪪 License
+- SQLD 🗓️2023.07
+- 정보처리기사 🗓️2023.09
 - Scuba Diving Instructor
 
-## Activity 
-- 교내 학술 동아리(2018)
-- 부산대학교 스쿠버 동아리 훈련부장(2022)
-- [카카오 테크 캠퍼스 1기(2023)](https://www.kakaotechcampus.com)
-- [부산 IT 연합 동아리(2023)](https://www.projectbusan.com)
+## 🏃 Activity 
+- 교내 학술 동아리 🗓️2018
+- 부산대학교 스쿠버 동아리 훈련부장 🗓️2022
+- [카카오 테크 캠퍼스 1기 🗓️2023](https://www.kakaotechcampus.com)
+- [부산 IT 연합 동아리 🗓️2023](https://www.projectbusan.com)
 
 
 
@@ -95,7 +95,6 @@
 
 
 # ETC
-- 
 - [✏️공부 블로그(Just memo for me)](https://yunzae.tistory.com)
 
 
