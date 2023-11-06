@@ -74,7 +74,7 @@
 ### [번개볼링 - 볼링 매칭 서비스 🗓️2023.09~2023.11 ](https://github.com/Step3-kakao-tech-campus/Team3_BE)
 <img src="https://github.com/yunzae/yunzae/assets/81746373/17a832c7-a401-4b39-956b-82c5186d758b"  width="500" height="200"/>
 
-### [공다 - 공유 캘린더 🗓️2023.01~2023.02 ](https://github.com/5-months-project/backend)
+### [공다 - 공유 캘린더 🗓️2023.01~2023.02 ](https://github.com/yunzae/gongda)
 <img src="https://github.com/yunzae/yunzae/assets/81746373/23770a89-061f-4b83-be31-5b26fc43a9a0"  width="500" height="200"/>
 
 ### [PNU TOUR - 부산대학교 캠퍼스 관광 해설 도우미 🗓️2023.06~2023.10 ](https://github.com/pnucse-capstone/capstone-2023-1-13)
