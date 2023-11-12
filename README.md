@@ -15,7 +15,6 @@
 ![python](https://img.shields.io/badge/-Python-2b5b84?style=for-the-badge&logo=python&logoColor=white)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yunzae&layout=compact)](https://github.com/yunzae/github-readme-stats)
  
 
 
