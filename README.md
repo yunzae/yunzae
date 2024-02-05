@@ -51,16 +51,19 @@
 
 ## 🎓 Education 
 - 영진 고등학교(대구) 졸업 🗓️2014.03~2017.02
-- 부산대학교(부산) 전기컴퓨터공학부 정보컴퓨터공학전공 졸업예정 🗓️2018.03~2024.02
+- 부산대학교(부산) 전기컴퓨터공학부 정보컴퓨터공학전공 졸업 🗓️2018.03~2024.02
 
+<!--
 ## 🪪 License
 - SQLD 🗓️2023.07
 - 정보처리기사 🗓️2023.09
 - Scuba Diving Instructor
-
+-->
 ## 🏃 Activity 
 - 교내 학술 동아리 🗓️2018
+<!--
 - 부산대학교 스쿠버 동아리 훈련부장 🗓️2022
+-->
 - [카카오 테크 캠퍼스 1기 🗓️2023](https://www.kakaotechcampus.com)
 - [부산 IT 연합 동아리 🗓️2023](https://www.projectbusan.com)
 
@@ -83,7 +86,7 @@
 ### 🔒[카카오 쇼핑몰 - 클론코딩(백엔드) 🗓️2023.06~2023.17 ](https://github.com/Kakao-tech-campus-BE/step2-BE-kakao-shop)
 <img src="https://github.com/yunzae/yunzae/assets/81746373/25f8c7d4-8a46-4648-b4c6-6608a8ec85c8"  width="500" height="200"/>
 
-### 🔒Loggy - 다이빙 로그북  🗓️2023.01~
+### 🔒Loggy - 다이빙 로그북 SNS  🗓️2023.01~
 <img src="https://github.com/yunzae/yunzae/assets/81746373/6f7944e7-88ab-47e3-8245-c4e4841964e6"  width="500" height="200"/>
 
 
